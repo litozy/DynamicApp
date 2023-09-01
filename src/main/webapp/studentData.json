@@ -1,0 +1,14 @@
+[
+    {
+        "studentID": "V001",
+        "studentName": "John Doe",
+        "department": "Dep 1",
+        "mark": 70
+    },
+    {
+        "studentID": "V002",
+        "studentName": "Jane Smith",
+        "department": "Dep 2",
+        "mark": 85
+    }
+]
